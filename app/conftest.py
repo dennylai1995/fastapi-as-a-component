@@ -1,0 +1,2 @@
+# add this file to help pytest add the parent folder (app) to PATH (may remove when upgrade pytest to 7..)
+# https://stackoverflow.com/questions/10253826/path-issue-with-pytest-importerror-no-module-named
